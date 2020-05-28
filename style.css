@@ -1,0 +1,82 @@
+#background { 
+	background: #E27D60;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Big Shoulders Display', cursive;
+	font-size: 18px;
+	background-color: #85DCBA;
+}
+
+main {
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+
+img.linkedin {
+	width: 30px;
+	position: absolute;
+	top: 50px;
+	left: 0px;
+}
+
+img.email {
+	width: 35px;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+
+img.tumblr {
+	width: 30px;
+	position: absolute;
+	top: 50px;
+	left: 100px;
+}
+
+img.face{
+	width: 100px;
+	border-radius: 50%;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+img.listimages{
+	width: 250px;
+	padding-left: 15px;
+	float: right;
+}
+
+.footer{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #fc14af;
+  color: white;
+  text-align: center;
+}
+
+a.home:visited {
+  color: black;
+}
+
+#icons{
+	position: absolute;
+	left: 400px;
+	bottom: 10px;
+}
+
+#divider{
+	height: 20px;
+}
